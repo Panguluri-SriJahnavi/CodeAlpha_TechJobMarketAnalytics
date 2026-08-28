@@ -61,7 +61,7 @@ three roles side by side, top hiring locations, and experience-level distributio
 
 ## 🔗 Links
 
-- **LinkedIn video walkthrough:** *(add link here)*
+- **LinkedIn video walkthrough: https://lnkd.in/p/dA-exnzS
 - **Internship:** [CodeAlpha](https://www.codealpha.tech)
 
 ## 🚀 How to Run
