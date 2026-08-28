@@ -10,16 +10,10 @@ where the jobs are, and what experience levels employers expect.
 
 ```
 CodeAlpha_TechJobMarketAnalytics/
-├── Task1_WebScraping.ipynb      # Scrapes job postings from TimesJobs.com
-├── Task2_DataAnalysis.ipynb     # Exploratory Data Analysis (EDA)
-├── Task3_Visualization.ipynb    # Charts and visual insights
-├── jobs_data.csv                # Raw scraped data
-├── jobs_data_cleaned.csv        # Cleaned data (output of Task 2)
-├── chart1_postings_by_role.png
-├── chart2_top_skills_overall.png
-├── chart3_skills_heatmap.png
-├── chart4_top_locations.png
-├── chart5_experience_levels.png
+├── Task1_WebScraping.ipynb
+├── Task2_DataAnalysis.ipynb
+├── Task3_Visualization.ipynb
+├── india_job_market_2024_2026.csv
 ├── requirements.txt
 └── README.md
 ```
