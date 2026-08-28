@@ -58,11 +58,12 @@ three roles side by side, top hiring locations, and experience-level distributio
 
 ## 📊 Key Findings
 
-*(Fill this in after running the notebooks — 4-6 bullet points on your actual results.)*
-
-- ...
-- ...
-- ...
+- The dataset contains 5,000 technology job postings across different roles, locations, experience levels, and industries.
+- Data Analyst, Software Engineer, and Full Stack Developer roles were analyzed to identify hiring patterns and skill demand.
+- The analysis identified the most frequently requested technical skills across the technology job market.
+- Job opportunities were concentrated in major Indian cities, showing strong demand in key technology hubs.
+- Different experience levels showed varying levels of demand across job postings.
+- Skill co-occurrence analysis highlighted technologies that are frequently requested together by employers.
 
 ## 🔗 Links
 
